@@ -12,10 +12,6 @@ Join us in building a stronger, more efficient gym management solution. Let's em
 
 # Business Requirement Specification: Gym Management Mobile Application
 
-# 1. Introduction:
-This document outlines the business requirements for the development of a mobile application aimed at managing customer data and subscriptions for a gym. The application will facilitate efficient data entry, editing, and deletion of customer information, as well as automate notifications for subscription renewals and expirations.
-
-Business Requirement Specification: Gym Management Mobile Application
 
 # 1. Introduction:
 This document outlines the business requirements for the development of a mobile application aimed at managing customer data and subscriptions for a gym. The application will facilitate efficient data entry, editing, and deletion of customer information, as well as automate notifications for subscription renewals and expirations.
